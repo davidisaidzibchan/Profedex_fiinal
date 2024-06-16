@@ -40,3 +40,11 @@
 - **Revisiones y validaciones**:
   - Feedback recibido y pruebas realizadas.
 
+  ## Versión 1.5
+- **Fecha**: 2024-06-12
+- **Alcances logrados**:
+  - Detalles específicos de las mejoras y nuevas funcionalidades.
+- **Puntos débiles**:
+  - Problemas o limitaciones conocidas.
+- **Revisiones y validaciones**:
+  - Feedback recibido y pruebas realizadas.
